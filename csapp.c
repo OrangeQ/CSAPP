@@ -58,7 +58,7 @@ int main(void)
 	printf("%d\n", (int)d1);
 	printf("%d\n", (int)d2);
 }
-/*
+
 void 
 rio_readinitb(rio_t *rp, int fd) {
 	rp->rio_fd = fd;
@@ -169,4 +169,3 @@ open_listenfd(int port)
 
 	return listenfd;
 }
-*/
